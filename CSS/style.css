@@ -10,12 +10,12 @@ img{
 
 .bg1{
     background-color: rgba(2, 124, 2, 0.589);
-    align-items: baseline;
 }
 
 
 .bgblue{
     background-color: rgba(0, 0, 255, 0.74);
+    height: 20px;
 }
 
 .banner1{
